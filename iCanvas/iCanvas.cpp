@@ -39,9 +39,6 @@ bool MyApp::OnInit()
     CenterOnDisplay(frame, DISPLAY_ID);
     frame->Show(true);
     Fibonacci();
-    Fibonacci();
-    Fibonacci();
-    Fibonacci();
     return true;
 }
 
