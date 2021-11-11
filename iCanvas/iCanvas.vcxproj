@@ -121,7 +121,7 @@
     <Link>
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>$(wxwin)\lib\vc142_x64_dll;\\RUBENWIN10\ibm\Projetos\InfiniteCanvas\$(IntDir);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(wxwin)\lib\vc142_x64_dll;C:\git\InfiniteCanvas\$(IntDir);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>Stylus.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <Manifest>
