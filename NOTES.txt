@@ -1,0 +1,13 @@
+
+
+WxWidgets C++ Getting Started with Visual Studio 2019
+https://www.youtube.com/watch?v=X4va_MeIia0
+
+wxWidgets DPI awareness (V2) not working as expected
+https://stackoverflow.com/questions/67456410/wxwidgets-dpi-awareness-v2-not-working-as-expected
+
+Writing a Cross-Platform Dynamic Library
+https://atomheartother.github.io/c++/2018/07/12/CPPDynLib.html
+
+Walkthrough: Create and use your own Dynamic Link Library (C++)
+https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=msvc-170#prerequisites
